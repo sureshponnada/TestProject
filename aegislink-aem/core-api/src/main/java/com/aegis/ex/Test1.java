@@ -14,5 +14,9 @@ public class Test1 {
 	public String getFeature1(String param) {
 		return "Added this for sk_Feature_branch_1";
 	}
+	
+	/*
+	 * Added new comment.
+	 */
 
 }
