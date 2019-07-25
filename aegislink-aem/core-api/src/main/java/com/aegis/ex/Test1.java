@@ -8,8 +8,21 @@ public class Test1 {
 	public String getTest1(String param) {
 		return "Added this for Test_branch_1";
 	}
+
+	
+	/* Added by sk */
+	
+	public String getFeature1(String param) {
+		return "Added this for sk_Feature_branch_1";
+	}
+	
+	/*
+	 * Added new comment.
+	 */
+
 	public String getTest2(String param) {
 		return "Added this for Test_branch_2";
 	}
+
 
 }
